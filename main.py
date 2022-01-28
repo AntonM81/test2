@@ -2,7 +2,6 @@ __all__=(
     'seconds_to_str',
 )
 
-
 def second_to_str(seconds: int):
     days=seconds//86400
 
